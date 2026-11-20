@@ -1,2 +1,2 @@
 # my-first-project
-oh yeah my max
+please claude.
